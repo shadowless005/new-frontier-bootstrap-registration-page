@@ -1,0 +1,11 @@
+.community-image {
+  width: 180px;
+  height: auto;
+}
+
+/*Adjust the size of the image for smaller screens */
+@media (max-width: 768px) {
+  .community-image {
+    width: 140px;
+  }
+}

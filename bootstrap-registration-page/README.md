@@ -30,6 +30,17 @@ tables, images, navigation, and utility classes.
 
 Placeholder photographs are provided by https://picsum.photos/.
 
+## How to View
+
+1. Download or clone this repository.
+2. Keep `index.html` and `styles.css` in the same folder.
+3. Open `index.html` in your web browser, or use Live Server in VS Code.
+
+An internet connection is required to load Bootstrap and the images.
+
+This is a front-end demo. No real accounts are created, and the table
+contains hard-coded sample users rather than submitted form data.
+
 ## Author
 
 Matthew Shin
